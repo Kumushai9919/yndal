@@ -1,0 +1,52 @@
+/********************************Tag selectors*********************************/ /*there're also class&id selectors*/
+body {
+ background-color: #c5e3f6;
+
+}
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 6px;
+   width: 5%;
+ }
+img {
+border-radius: 50%;
+height: 250px;
+
+}
+.center {
+  display: block;  /*code to center the img*/
+  margin-left: auto;
+  margin-right: auto;
+
+}
+p {
+  text-align: center;
+}
+ul {
+  display: table;   /*code to center an unordered list*/
+  margin: 0 auto;
+}
+
+
+td {
+
+  text-align: center;
+
+}
+
+h1 {
+  color: #3282b8;
+  text-align: center;
+}
+h2
+{
+  color: #3282b8;
+    text-align: center;
+}
+
+h3 {
+  color: #3282b8;
+    text-align: center;
+}
